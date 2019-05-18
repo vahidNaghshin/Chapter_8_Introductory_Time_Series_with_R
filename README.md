@@ -1,2 +1,26 @@
 # Chapter_8_Introductory_Time_Series_with_R
-This is the solution to the exercises of chapter 7 of Introductory Time Series with R authored by Robert Gentleman, Kurt Hornik, and Giovanni Parmigiani. Time series is analysing a collection of random variables usually ordered in time based on the history data to forecast the future. In the following, the solution of the seventh chapter of the book along with the R implementation are provided. The solution for chapter 7 problems are given in R file with outputs given as follows:
+This is the solution to the exercises of chapter 8 of Introductory Time Series with R authored by Robert Gentleman, Kurt Hornik, and Giovanni Parmigiani. Time series is analysing a collection of random variables usually ordered in time based on the history data to forecast the future. In the following, the solution of the eighth chapter of the book along with the R implementation are provided. The solution for chapter 8 problems are given in R file with outputs given as follows:
+
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/bitsLAN.png)
+
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/Boxplot&histLAN.png)
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/Boxplot&histLAN_log.png)
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/Boxplot&hist_AR_res_LAN.png)
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/Boxplot&hist_ARMA_res_LAN.png)
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/Boxplot&hist_AR(2)_res_LAN.png)
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/Boxplot&hist_AR_res_LAN_20ms.png)
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/Boxplot&hist_AR_res_LAN_40ms.png)![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/rand_walk_fed.png)![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/ARMA_fed.png)
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/nile.png)
+![GitHub Logo](/quad1.png)
+Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/rescaledAdjRange.png)
