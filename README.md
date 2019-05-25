@@ -1,4 +1,4 @@
-# Chapter_8_ILong-Memory_Processes
+# Chapter_8_Long-Memory_Processes
 This is the solution to the exercises of chapter 8 of Introductory Time Series with R authored by Robert Gentleman, Kurt Hornik, and Giovanni Parmigiani. Time series is analysing a collection of random variables usually ordered in time based on the history data to forecast the future. In the following, the solution of the eighth chapter of the book along with the R implementation are provided. The solution for chapter 8 problems are given in R file with outputs given as follows:
 
 ![GitHub Logo](/bitsLAN.png)
